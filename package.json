@@ -1,0 +1,17 @@
+{
+  "name": "s9frao-simple-calculater",
+  "version": "2.0.0",
+  "description": "A simple calculater with typescript,node js ,inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sadaf sohail",
+  "license": "MIT",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.16"
+  }
+}
